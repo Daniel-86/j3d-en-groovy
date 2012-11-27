@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.4.1_01" class="java.beans.XMLDecoder">
+	<void class="com.sun.j3d.utils.geometry.GeometryInfo" id="Mesh-gi3">
+		<object class="com.sun.j3d.utils.geometry.GeometryInfo" field="TRIANGLE_ARRAY"></object>
+		<void property="coordinates">
+			<array class="float" length="702">
+				<void index="0">
+					<float>0.150000020862</float>
+				</void>
+				<void index="1">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="2">
+					<float>2.65000009537</float>
+				</void>
+				<void index="3">
+					<float>1.00000011921</float>
+				</void>
+				<void index="4">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="5">
+					<float>2.65000009537</float>
+				</void>
+				<void index="6">
+					<float>1.05000007153</float>
+				</void>
+				<void index="7">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="8">
+					<float>2.70000004768</float>
+				</void>
+				<void index="9">
+					<float>0.150000020862</float>
+				</void>
+				<void index="10">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="11">
+					<float>2.65000009537</float>
+				</void>
+				<void index="12">
+					<float>1.05000007153</float>
+				</void>
+				<void index="13">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="14">
+					<float>2.70000004768</float>
+				</void>
+				<void index="15">
+					<float>0.10000000149</float>
+				</void>
+				<void index="16">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="17">
+					<float>2.70000004768</float>
+				</void>
+				<void index="18">
+					<float>1.00000011921</float>
+				</void>
+				<void index="19">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="20">
+					<float>2.65000009537</float>
+				</void>
+				<void index="21">
+					<float>1.00000011921</float>
+				</void>
+				<void index="22">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="23">
+					<float>2.20000004768</float>
+				</void>
+				<void index="24">
+					<float>1.05000007153</float>
+				</void>
+				<void index="25">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="26">
+					<float>2.15000009537</float>
+				</void>
+				<void index="27">
+					<float>1.00000011921</float>
+				</void>
+				<void index="28">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="29">
+					<float>2.65000009537</float>
+				</void>
+				<void index="30">
+					<float>1.05000007153</float>
+				</void>
+				<void index="31">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="32">
+					<float>2.15000009537</float>
+				</void>
+				<void index="33">
+					<float>1.05000007153</float>
+				</void>
+				<void index="34">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="35">
+					<float>2.70000004768</float>
+				</void>
+				<void index="36">
+					<float>1.00000011921</float>
+				</void>
+				<void index="37">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="38">
+					<float>2.20000004768</float>
+				</void>
+				<void index="39">
+					<float>0.150000035763</float>
+				</void>
+				<void index="40">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="41">
+					<float>2.20000004768</float>
+				</void>
+				<void index="42">
+					<float>0.100000023842</float>
+				</void>
+				<void index="43">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="44">
+					<float>2.15000009537</float>
+				</void>
+				<void index="45">
+					<float>1.00000011921</float>
+				</void>
+				<void index="46">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="47">
+					<float>2.20000004768</float>
+				</void>
+				<void index="48">
+					<float>0.100000023842</float>
+				</void>
+				<void index="49">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="50">
+					<float>2.15000009537</float>
+				</void>
+				<void index="51">
+					<float>1.05000007153</float>
+				</void>
+				<void index="52">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="53">
+					<float>2.15000009537</float>
+				</void>
+				<void index="54">
+					<float>0.150000035763</float>
+				</void>
+				<void index="55">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="56">
+					<float>2.20000004768</float>
+				</void>
+				<void index="57">
+					<float>0.150000020862</float>
+				</void>
+				<void index="58">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="59">
+					<float>2.65000009537</float>
+				</void>
+				<void index="60">
+					<float>0.10000000149</float>
+				</void>
+				<void index="61">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="62">
+					<float>2.70000004768</float>
+				</void>
+				<void index="63">
+					<float>0.150000035763</float>
+				</void>
+				<void index="64">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="65">
+					<float>2.20000004768</float>
+				</void>
+				<void index="66">
+					<float>0.10000000149</float>
+				</void>
+				<void index="67">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="68">
+					<float>2.70000004768</float>
+				</void>
+				<void index="69">
+					<float>0.100000023842</float>
+				</void>
+				<void index="70">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="71">
+					<float>2.15000009537</float>
+				</void>
+				<void index="72">
+					<float>0.550000071526</float>
+				</void>
+				<void index="73">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="74">
+					<float>2.20000004768</float>
+				</void>
+				<void index="75">
+					<float>0.600000143051</float>
+				</void>
+				<void index="76">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="77">
+					<float>2.20000004768</float>
+				</void>
+				<void index="78">
+					<float>0.600000023842</float>
+				</void>
+				<void index="79">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="80">
+					<float>2.65000009537</float>
+				</void>
+				<void index="81">
+					<float>0.550000071526</float>
+				</void>
+				<void index="82">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="83">
+					<float>2.20000004768</float>
+				</void>
+				<void index="84">
+					<float>0.600000023842</float>
+				</void>
+				<void index="85">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="86">
+					<float>2.65000009537</float>
+				</void>
+				<void index="87">
+					<float>0.549999952316</float>
+				</void>
+				<void index="88">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="89">
+					<float>2.65000009537</float>
+				</void>
+				<void index="90">
+					<float>0.349999904633</float>
+				</void>
+				<void index="91">
+					<float>2.70000004768</float>
+				</void>
+				<void index="92">
+					<float>2.70000004768</float>
+				</void>
+				<void index="93">
+					<float>0.299999952316</float>
+				</void>
+				<void index="94">
+					<float>2.70000004768</float>
+				</void>
+				<void index="95">
+					<float>2.65000009537</float>
+				</void>
+				<void index="96">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="97">
+					<float>2.70000004768</float>
+				</void>
+				<void index="98">
+					<float>2.65000009537</float>
+				</void>
+				<void index="99">
+					<float>0.349999904633</float>
+				</void>
+				<void index="100">
+					<float>2.70000004768</float>
+				</void>
+				<void index="101">
+					<float>2.70000004768</float>
+				</void>
+				<void index="102">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="103">
+					<float>2.70000004768</float>
+				</void>
+				<void index="104">
+					<float>2.65000009537</float>
+				</void>
+				<void index="105">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="106">
+					<float>2.70000004768</float>
+				</void>
+				<void index="107">
+					<float>2.70000004768</float>
+				</void>
+				<void index="108">
+					<float>0.349999904633</float>
+				</void>
+				<void index="109">
+					<float>2.70000004768</float>
+				</void>
+				<void index="110">
+					<float>0.949999988079</float>
+				</void>
+				<void index="111">
+					<float>0.299999952316</float>
+				</void>
+				<void index="112">
+					<float>2.70000004768</float>
+				</void>
+				<void index="113">
+					<float>1.0</float>
+				</void>
+				<void index="114">
+					<float>0.299999952316</float>
+				</void>
+				<void index="115">
+					<float>2.70000004768</float>
+				</void>
+				<void index="116">
+					<float>2.65000009537</float>
+				</void>
+				<void index="117">
+					<float>0.349999904633</float>
+				</void>
+				<void index="118">
+					<float>2.70000004768</float>
+				</void>
+				<void index="119">
+					<float>0.949999988079</float>
+				</void>
+				<void index="120">
+					<float>0.299999952316</float>
+				</void>
+				<void index="121">
+					<float>2.70000004768</float>
+				</void>
+				<void index="122">
+					<float>2.65000009537</float>
+				</void>
+				<void index="123">
+					<float>0.349999904633</float>
+				</void>
+				<void index="124">
+					<float>2.70000004768</float>
+				</void>
+				<void index="125">
+					<float>2.70000004768</float>
+				</void>
+				<void index="126">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="127">
+					<float>2.70000004768</float>
+				</void>
+				<void index="128">
+					<float>0.949999988079</float>
+				</void>
+				<void index="129">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="130">
+					<float>2.70000004768</float>
+				</void>
+				<void index="131">
+					<float>1.0</float>
+				</void>
+				<void index="132">
+					<float>0.299999952316</float>
+				</void>
+				<void index="133">
+					<float>2.70000004768</float>
+				</void>
+				<void index="134">
+					<float>1.0</float>
+				</void>
+				<void index="135">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="136">
+					<float>2.70000004768</float>
+				</void>
+				<void index="137">
+					<float>0.949999988079</float>
+				</void>
+				<void index="138">
+					<float>0.299999952316</float>
+				</void>
+				<void index="139">
+					<float>2.70000004768</float>
+				</void>
+				<void index="140">
+					<float>1.0</float>
+				</void>
+				<void index="141">
+					<float>0.349999904633</float>
+				</void>
+				<void index="142">
+					<float>2.70000004768</float>
+				</void>
+				<void index="143">
+					<float>0.949999988079</float>
+				</void>
+				<void index="144">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="145">
+					<float>2.70000004768</float>
+				</void>
+				<void index="146">
+					<float>2.70000004768</float>
+				</void>
+				<void index="147">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="148">
+					<float>2.70000004768</float>
+				</void>
+				<void index="149">
+					<float>2.65000009537</float>
+				</void>
+				<void index="150">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="151">
+					<float>2.70000004768</float>
+				</void>
+				<void index="152">
+					<float>1.0</float>
+				</void>
+				<void index="153">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="154">
+					<float>2.70000004768</float>
+				</void>
+				<void index="155">
+					<float>2.70000004768</float>
+				</void>
+				<void index="156">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="157">
+					<float>2.70000004768</float>
+				</void>
+				<void index="158">
+					<float>1.0</float>
+				</void>
+				<void index="159">
+					<float>-0.400000095367</float>
+				</void>
+				<void index="160">
+					<float>2.70000004768</float>
+				</void>
+				<void index="161">
+					<float>0.949999988079</float>
+				</void>
+				<void index="162">
+					<float>0.0</float>
+				</void>
+				<void index="163">
+					<float>2.70000004768</float>
+				</void>
+				<void index="164">
+					<float>2.65000009537</float>
+				</void>
+				<void index="165">
+					<float>0.0</float>
+				</void>
+				<void index="166">
+					<float>2.70000004768</float>
+				</void>
+				<void index="167">
+					<float>1.0</float>
+				</void>
+				<void index="168">
+					<float>-0.0500000715256</float>
+				</void>
+				<void index="169">
+					<float>2.70000004768</float>
+				</void>
+				<void index="170">
+					<float>1.0</float>
+				</void>
+				<void index="171">
+					<float>0.0</float>
+				</void>
+				<void index="172">
+					<float>2.70000004768</float>
+				</void>
+				<void index="173">
+					<float>2.65000009537</float>
+				</void>
+				<void index="174">
+					<float>-0.0500000715256</float>
+				</void>
+				<void index="175">
+					<float>2.70000004768</float>
+				</void>
+				<void index="176">
+					<float>1.0</float>
+				</void>
+				<void index="177">
+					<float>-0.0500000715256</float>
+				</void>
+				<void index="178">
+					<float>2.70000004768</float>
+				</void>
+				<void index="179">
+					<float>2.65000009537</float>
+				</void>
+				<void index="180">
+					<float>0.299999952316</float>
+				</void>
+				<void index="181">
+					<float>2.70000004768</float>
+				</void>
+				<void index="182">
+					<float>1.85000002384</float>
+				</void>
+				<void index="183">
+					<float>0.299999952316</float>
+				</void>
+				<void index="184">
+					<float>2.70000004768</float>
+				</void>
+				<void index="185">
+					<float>1.80000007153</float>
+				</void>
+				<void index="186">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="187">
+					<float>2.70000004768</float>
+				</void>
+				<void index="188">
+					<float>1.80000007153</float>
+				</void>
+				<void index="189">
+					<float>0.299999952316</float>
+				</void>
+				<void index="190">
+					<float>2.70000004768</float>
+				</void>
+				<void index="191">
+					<float>1.85000002384</float>
+				</void>
+				<void index="192">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="193">
+					<float>2.70000004768</float>
+				</void>
+				<void index="194">
+					<float>1.80000007153</float>
+				</void>
+				<void index="195">
+					<float>-0.350000023842</float>
+				</void>
+				<void index="196">
+					<float>2.70000004768</float>
+				</void>
+				<void index="197">
+					<float>1.85000002384</float>
+				</void>
+				<void index="198">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="199">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="200">
+					<float>2.65000009537</float>
+				</void>
+				<void index="201">
+					<float>-0.75</float>
+				</void>
+				<void index="202">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="203">
+					<float>2.65000009537</float>
+				</void>
+				<void index="204">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="205">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="206">
+					<float>2.70000004768</float>
+				</void>
+				<void index="207">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="208">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="209">
+					<float>2.65000009537</float>
+				</void>
+				<void index="210">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="211">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="212">
+					<float>2.70000004768</float>
+				</void>
+				<void index="213">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="214">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="215">
+					<float>2.70000004768</float>
+				</void>
+				<void index="216">
+					<float>-0.75</float>
+				</void>
+				<void index="217">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="218">
+					<float>2.65000009537</float>
+				</void>
+				<void index="219">
+					<float>-0.75</float>
+				</void>
+				<void index="220">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="221">
+					<float>1.0</float>
+				</void>
+				<void index="222">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="223">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="224">
+					<float>0.949999988079</float>
+				</void>
+				<void index="225">
+					<float>-0.75</float>
+				</void>
+				<void index="226">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="227">
+					<float>2.65000009537</float>
+				</void>
+				<void index="228">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="229">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="230">
+					<float>0.949999988079</float>
+				</void>
+				<void index="231">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="232">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="233">
+					<float>2.70000004768</float>
+				</void>
+				<void index="234">
+					<float>-0.75</float>
+				</void>
+				<void index="235">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="236">
+					<float>1.0</float>
+				</void>
+				<void index="237">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="238">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="239">
+					<float>1.0</float>
+				</void>
+				<void index="240">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="241">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="242">
+					<float>0.949999988079</float>
+				</void>
+				<void index="243">
+					<float>-0.75</float>
+				</void>
+				<void index="244">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="245">
+					<float>1.0</float>
+				</void>
+				<void index="246">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="247">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="248">
+					<float>0.949999988079</float>
+				</void>
+				<void index="249">
+					<float>-0.700000047684</float>
+				</void>
+				<void index="250">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="251">
+					<float>0.949999988079</float>
+				</void>
+				<void index="252">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="253">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="254">
+					<float>1.0</float>
+				</void>
+				<void index="255">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="256">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="257">
+					<float>2.65000009537</float>
+				</void>
+				<void index="258">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="259">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="260">
+					<float>2.70000004768</float>
+				</void>
+				<void index="261">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="262">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="263">
+					<float>1.0</float>
+				</void>
+				<void index="264">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="265">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="266">
+					<float>2.70000004768</float>
+				</void>
+				<void index="267">
+					<float>-1.45000004768</float>
+				</void>
+				<void index="268">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="269">
+					<float>0.949999988079</float>
+				</void>
+				<void index="270">
+					<float>-1.10000002384</float>
+				</void>
+				<void index="271">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="272">
+					<float>1.0</float>
+				</void>
+				<void index="273">
+					<float>-1.04999995232</float>
+				</void>
+				<void index="274">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="275">
+					<float>1.0</float>
+				</void>
+				<void index="276">
+					<float>-1.04999995232</float>
+				</void>
+				<void index="277">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="278">
+					<float>2.65000009537</float>
+				</void>
+				<void index="279">
+					<float>-1.10000002384</float>
+				</void>
+				<void index="280">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="281">
+					<float>1.0</float>
+				</void>
+				<void index="282">
+					<float>-1.04999995232</float>
+				</void>
+				<void index="283">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="284">
+					<float>2.65000009537</float>
+				</void>
+				<void index="285">
+					<float>-1.10000002384</float>
+				</void>
+				<void index="286">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="287">
+					<float>2.65000009537</float>
+				</void>
+				<void index="288">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="289">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="290">
+					<float>1.80000007153</float>
+				</void>
+				<void index="291">
+					<float>-0.75</float>
+				</void>
+				<void index="292">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="293">
+					<float>1.80000007153</float>
+				</void>
+				<void index="294">
+					<float>-0.75</float>
+				</void>
+				<void index="295">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="296">
+					<float>1.85000002384</float>
+				</void>
+				<void index="297">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="298">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="299">
+					<float>1.80000007153</float>
+				</void>
+				<void index="300">
+					<float>-0.75</float>
+				</void>
+				<void index="301">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="302">
+					<float>1.85000002384</float>
+				</void>
+				<void index="303">
+					<float>-1.39999997616</float>
+				</void>
+				<void index="304">
+					<float>-2.70000004768</float>
+				</void>
+				<void index="305">
+					<float>1.85000002384</float>
+				</void>
+				<void index="306">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="307">
+					<float>1.05000007153</float>
+				</void>
+				<void index="308">
+					<float>2.5</float>
+				</void>
+				<void index="309">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="310">
+					<float>1.05000007153</float>
+				</void>
+				<void index="311">
+					<float>2.20000004768</float>
+				</void>
+				<void index="312">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="313">
+					<float>1.0</float>
+				</void>
+				<void index="314">
+					<float>2.20000004768</float>
+				</void>
+				<void index="315">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="316">
+					<float>1.05000007153</float>
+				</void>
+				<void index="317">
+					<float>2.5</float>
+				</void>
+				<void index="318">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="319">
+					<float>1.0</float>
+				</void>
+				<void index="320">
+					<float>2.20000004768</float>
+				</void>
+				<void index="321">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="322">
+					<float>1.0</float>
+				</void>
+				<void index="323">
+					<float>2.5</float>
+				</void>
+				<void index="324">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="325">
+					<float>0.550000011921</float>
+				</void>
+				<void index="326">
+					<float>2.54999995232</float>
+				</void>
+				<void index="327">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="328">
+					<float>0.600000023842</float>
+				</void>
+				<void index="329">
+					<float>2.5</float>
+				</void>
+				<void index="330">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="331">
+					<float>0.600000023842</float>
+				</void>
+				<void index="332">
+					<float>2.20000004768</float>
+				</void>
+				<void index="333">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="334">
+					<float>0.550000011921</float>
+				</void>
+				<void index="335">
+					<float>2.54999995232</float>
+				</void>
+				<void index="336">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="337">
+					<float>0.600000023842</float>
+				</void>
+				<void index="338">
+					<float>2.20000004768</float>
+				</void>
+				<void index="339">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="340">
+					<float>0.550000011921</float>
+				</void>
+				<void index="341">
+					<float>2.15000009537</float>
+				</void>
+				<void index="342">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="343">
+					<float>0.550000011921</float>
+				</void>
+				<void index="344">
+					<float>2.15000009537</float>
+				</void>
+				<void index="345">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="346">
+					<float>0.600000023842</float>
+				</void>
+				<void index="347">
+					<float>2.20000004768</float>
+				</void>
+				<void index="348">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="349">
+					<float>1.45000004768</float>
+				</void>
+				<void index="350">
+					<float>2.20000004768</float>
+				</void>
+				<void index="351">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="352">
+					<float>0.550000011921</float>
+				</void>
+				<void index="353">
+					<float>2.15000009537</float>
+				</void>
+				<void index="354">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="355">
+					<float>1.45000004768</float>
+				</void>
+				<void index="356">
+					<float>2.20000004768</float>
+				</void>
+				<void index="357">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="358">
+					<float>1.5</float>
+				</void>
+				<void index="359">
+					<float>2.15000009537</float>
+				</void>
+				<void index="360">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="361">
+					<float>1.5</float>
+				</void>
+				<void index="362">
+					<float>2.15000009537</float>
+				</void>
+				<void index="363">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="364">
+					<float>1.45000004768</float>
+				</void>
+				<void index="365">
+					<float>2.20000004768</float>
+				</void>
+				<void index="366">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="367">
+					<float>1.45000004768</float>
+				</void>
+				<void index="368">
+					<float>2.5</float>
+				</void>
+				<void index="369">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="370">
+					<float>1.5</float>
+				</void>
+				<void index="371">
+					<float>2.15000009537</float>
+				</void>
+				<void index="372">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="373">
+					<float>1.45000004768</float>
+				</void>
+				<void index="374">
+					<float>2.5</float>
+				</void>
+				<void index="375">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="376">
+					<float>1.5</float>
+				</void>
+				<void index="377">
+					<float>2.54999995232</float>
+				</void>
+				<void index="378">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="379">
+					<float>1.5</float>
+				</void>
+				<void index="380">
+					<float>2.54999995232</float>
+				</void>
+				<void index="381">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="382">
+					<float>1.45000004768</float>
+				</void>
+				<void index="383">
+					<float>2.5</float>
+				</void>
+				<void index="384">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="385">
+					<float>0.600000023842</float>
+				</void>
+				<void index="386">
+					<float>2.5</float>
+				</void>
+				<void index="387">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="388">
+					<float>1.5</float>
+				</void>
+				<void index="389">
+					<float>2.54999995232</float>
+				</void>
+				<void index="390">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="391">
+					<float>0.600000023842</float>
+				</void>
+				<void index="392">
+					<float>2.5</float>
+				</void>
+				<void index="393">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="394">
+					<float>0.550000011921</float>
+				</void>
+				<void index="395">
+					<float>2.54999995232</float>
+				</void>
+				<void index="396">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="397">
+					<float>-1.25</float>
+				</void>
+				<void index="398">
+					<float>1.85000002384</float>
+				</void>
+				<void index="399">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="400">
+					<float>-1.25</float>
+				</void>
+				<void index="401">
+					<float>1.80000007153</float>
+				</void>
+				<void index="402">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="403">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="404">
+					<float>1.80000007153</float>
+				</void>
+				<void index="405">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="406">
+					<float>-1.25</float>
+				</void>
+				<void index="407">
+					<float>1.85000002384</float>
+				</void>
+				<void index="408">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="409">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="410">
+					<float>1.80000007153</float>
+				</void>
+				<void index="411">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="412">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="413">
+					<float>1.85000002384</float>
+				</void>
+				<void index="414">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="415">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="416">
+					<float>2.65000009537</float>
+				</void>
+				<void index="417">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="418">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="419">
+					<float>1.0</float>
+				</void>
+				<void index="420">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="421">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="422">
+					<float>1.0</float>
+				</void>
+				<void index="423">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="424">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="425">
+					<float>2.65000009537</float>
+				</void>
+				<void index="426">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="427">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="428">
+					<float>1.0</float>
+				</void>
+				<void index="429">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="430">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="431">
+					<float>2.65000009537</float>
+				</void>
+				<void index="432">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="433">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="434">
+					<float>2.70000004768</float>
+				</void>
+				<void index="435">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="436">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="437">
+					<float>2.65000009537</float>
+				</void>
+				<void index="438">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="439">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="440">
+					<float>1.0</float>
+				</void>
+				<void index="441">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="442">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="443">
+					<float>2.70000004768</float>
+				</void>
+				<void index="444">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="445">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="446">
+					<float>1.0</float>
+				</void>
+				<void index="447">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="448">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="449">
+					<float>0.949999988079</float>
+				</void>
+				<void index="450">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="451">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="452">
+					<float>0.949999988079</float>
+				</void>
+				<void index="453">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="454">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="455">
+					<float>1.0</float>
+				</void>
+				<void index="456">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="457">
+					<float>-1.25</float>
+				</void>
+				<void index="458">
+					<float>1.0</float>
+				</void>
+				<void index="459">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="460">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="461">
+					<float>0.949999988079</float>
+				</void>
+				<void index="462">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="463">
+					<float>-1.25</float>
+				</void>
+				<void index="464">
+					<float>1.0</float>
+				</void>
+				<void index="465">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="466">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="467">
+					<float>0.949999988079</float>
+				</void>
+				<void index="468">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="469">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="470">
+					<float>0.949999988079</float>
+				</void>
+				<void index="471">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="472">
+					<float>-1.25</float>
+				</void>
+				<void index="473">
+					<float>1.0</float>
+				</void>
+				<void index="474">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="475">
+					<float>-1.25</float>
+				</void>
+				<void index="476">
+					<float>2.65000009537</float>
+				</void>
+				<void index="477">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="478">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="479">
+					<float>0.949999988079</float>
+				</void>
+				<void index="480">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="481">
+					<float>-1.25</float>
+				</void>
+				<void index="482">
+					<float>2.65000009537</float>
+				</void>
+				<void index="483">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="484">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="485">
+					<float>2.70000004768</float>
+				</void>
+				<void index="486">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="487">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="488">
+					<float>2.70000004768</float>
+				</void>
+				<void index="489">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="490">
+					<float>-1.25</float>
+				</void>
+				<void index="491">
+					<float>2.65000009537</float>
+				</void>
+				<void index="492">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="493">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="494">
+					<float>2.65000009537</float>
+				</void>
+				<void index="495">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="496">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="497">
+					<float>2.70000004768</float>
+				</void>
+				<void index="498">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="499">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="500">
+					<float>2.65000009537</float>
+				</void>
+				<void index="501">
+					<float>-2.20000004768</float>
+				</void>
+				<void index="502">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="503">
+					<float>2.70000004768</float>
+				</void>
+				<void index="504">
+					<float>2.20000004768</float>
+				</void>
+				<void index="505">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="506">
+					<float>2.65000009537</float>
+				</void>
+				<void index="507">
+					<float>2.20000004768</float>
+				</void>
+				<void index="508">
+					<float>-1.25</float>
+				</void>
+				<void index="509">
+					<float>2.65000009537</float>
+				</void>
+				<void index="510">
+					<float>2.20000004768</float>
+				</void>
+				<void index="511">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="512">
+					<float>2.70000004768</float>
+				</void>
+				<void index="513">
+					<float>2.20000004768</float>
+				</void>
+				<void index="514">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="515">
+					<float>2.65000009537</float>
+				</void>
+				<void index="516">
+					<float>2.20000004768</float>
+				</void>
+				<void index="517">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="518">
+					<float>2.70000004768</float>
+				</void>
+				<void index="519">
+					<float>2.20000004768</float>
+				</void>
+				<void index="520">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="521">
+					<float>2.70000004768</float>
+				</void>
+				<void index="522">
+					<float>2.20000004768</float>
+				</void>
+				<void index="523">
+					<float>-1.25</float>
+				</void>
+				<void index="524">
+					<float>2.65000009537</float>
+				</void>
+				<void index="525">
+					<float>2.20000004768</float>
+				</void>
+				<void index="526">
+					<float>-1.25</float>
+				</void>
+				<void index="527">
+					<float>1.0</float>
+				</void>
+				<void index="528">
+					<float>2.20000004768</float>
+				</void>
+				<void index="529">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="530">
+					<float>0.949999988079</float>
+				</void>
+				<void index="531">
+					<float>2.20000004768</float>
+				</void>
+				<void index="532">
+					<float>-1.25</float>
+				</void>
+				<void index="533">
+					<float>2.65000009537</float>
+				</void>
+				<void index="534">
+					<float>2.20000004768</float>
+				</void>
+				<void index="535">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="536">
+					<float>0.949999988079</float>
+				</void>
+				<void index="537">
+					<float>2.20000004768</float>
+				</void>
+				<void index="538">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="539">
+					<float>2.70000004768</float>
+				</void>
+				<void index="540">
+					<float>2.20000004768</float>
+				</void>
+				<void index="541">
+					<float>-1.25</float>
+				</void>
+				<void index="542">
+					<float>1.0</float>
+				</void>
+				<void index="543">
+					<float>2.20000004768</float>
+				</void>
+				<void index="544">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="545">
+					<float>1.0</float>
+				</void>
+				<void index="546">
+					<float>2.20000004768</float>
+				</void>
+				<void index="547">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="548">
+					<float>0.949999988079</float>
+				</void>
+				<void index="549">
+					<float>2.20000004768</float>
+				</void>
+				<void index="550">
+					<float>-1.25</float>
+				</void>
+				<void index="551">
+					<float>1.0</float>
+				</void>
+				<void index="552">
+					<float>2.20000004768</float>
+				</void>
+				<void index="553">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="554">
+					<float>0.949999988079</float>
+				</void>
+				<void index="555">
+					<float>2.20000004768</float>
+				</void>
+				<void index="556">
+					<float>-1.20000004768</float>
+				</void>
+				<void index="557">
+					<float>0.949999988079</float>
+				</void>
+				<void index="558">
+					<float>2.20000004768</float>
+				</void>
+				<void index="559">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="560">
+					<float>1.0</float>
+				</void>
+				<void index="561">
+					<float>2.20000004768</float>
+				</void>
+				<void index="562">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="563">
+					<float>2.65000009537</float>
+				</void>
+				<void index="564">
+					<float>2.20000004768</float>
+				</void>
+				<void index="565">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="566">
+					<float>2.70000004768</float>
+				</void>
+				<void index="567">
+					<float>2.20000004768</float>
+				</void>
+				<void index="568">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="569">
+					<float>1.0</float>
+				</void>
+				<void index="570">
+					<float>2.20000004768</float>
+				</void>
+				<void index="571">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="572">
+					<float>2.70000004768</float>
+				</void>
+				<void index="573">
+					<float>2.20000004768</float>
+				</void>
+				<void index="574">
+					<float>-1.95000004768</float>
+				</void>
+				<void index="575">
+					<float>0.949999988079</float>
+				</void>
+				<void index="576">
+					<float>2.20000004768</float>
+				</void>
+				<void index="577">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="578">
+					<float>1.0</float>
+				</void>
+				<void index="579">
+					<float>2.20000004768</float>
+				</void>
+				<void index="580">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="581">
+					<float>1.0</float>
+				</void>
+				<void index="582">
+					<float>2.20000004768</float>
+				</void>
+				<void index="583">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="584">
+					<float>2.65000009537</float>
+				</void>
+				<void index="585">
+					<float>2.20000004768</float>
+				</void>
+				<void index="586">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="587">
+					<float>1.0</float>
+				</void>
+				<void index="588">
+					<float>2.20000004768</float>
+				</void>
+				<void index="589">
+					<float>-1.54999995232</float>
+				</void>
+				<void index="590">
+					<float>2.65000009537</float>
+				</void>
+				<void index="591">
+					<float>2.20000004768</float>
+				</void>
+				<void index="592">
+					<float>-1.60000002384</float>
+				</void>
+				<void index="593">
+					<float>2.65000009537</float>
+				</void>
+				<void index="594">
+					<float>2.20000004768</float>
+				</void>
+				<void index="595">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="596">
+					<float>1.80000007153</float>
+				</void>
+				<void index="597">
+					<float>2.20000004768</float>
+				</void>
+				<void index="598">
+					<float>-1.25</float>
+				</void>
+				<void index="599">
+					<float>1.80000007153</float>
+				</void>
+				<void index="600">
+					<float>2.20000004768</float>
+				</void>
+				<void index="601">
+					<float>-1.25</float>
+				</void>
+				<void index="602">
+					<float>1.85000002384</float>
+				</void>
+				<void index="603">
+					<float>2.20000004768</float>
+				</void>
+				<void index="604">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="605">
+					<float>1.80000007153</float>
+				</void>
+				<void index="606">
+					<float>2.20000004768</float>
+				</void>
+				<void index="607">
+					<float>-1.25</float>
+				</void>
+				<void index="608">
+					<float>1.85000002384</float>
+				</void>
+				<void index="609">
+					<float>2.20000004768</float>
+				</void>
+				<void index="610">
+					<float>-1.89999997616</float>
+				</void>
+				<void index="611">
+					<float>1.85000002384</float>
+				</void>
+				<void index="612">
+					<float>2.20000004768</float>
+				</void>
+				<void index="613">
+					<float>0.600000023842</float>
+				</void>
+				<void index="614">
+					<float>2.5</float>
+				</void>
+				<void index="615">
+					<float>2.20000004768</float>
+				</void>
+				<void index="616">
+					<float>1.45000004768</float>
+				</void>
+				<void index="617">
+					<float>2.5</float>
+				</void>
+				<void index="618">
+					<float>2.20000004768</float>
+				</void>
+				<void index="619">
+					<float>1.5</float>
+				</void>
+				<void index="620">
+					<float>2.54999995232</float>
+				</void>
+				<void index="621">
+					<float>2.20000004768</float>
+				</void>
+				<void index="622">
+					<float>0.600000023842</float>
+				</void>
+				<void index="623">
+					<float>2.5</float>
+				</void>
+				<void index="624">
+					<float>2.20000004768</float>
+				</void>
+				<void index="625">
+					<float>1.5</float>
+				</void>
+				<void index="626">
+					<float>2.54999995232</float>
+				</void>
+				<void index="627">
+					<float>2.20000004768</float>
+				</void>
+				<void index="628">
+					<float>0.550000011921</float>
+				</void>
+				<void index="629">
+					<float>2.54999995232</float>
+				</void>
+				<void index="630">
+					<float>2.20000004768</float>
+				</void>
+				<void index="631">
+					<float>1.45000004768</float>
+				</void>
+				<void index="632">
+					<float>2.5</float>
+				</void>
+				<void index="633">
+					<float>2.20000004768</float>
+				</void>
+				<void index="634">
+					<float>1.45000004768</float>
+				</void>
+				<void index="635">
+					<float>2.20000004768</float>
+				</void>
+				<void index="636">
+					<float>2.20000004768</float>
+				</void>
+				<void index="637">
+					<float>1.5</float>
+				</void>
+				<void index="638">
+					<float>2.15000009537</float>
+				</void>
+				<void index="639">
+					<float>2.20000004768</float>
+				</void>
+				<void index="640">
+					<float>1.45000004768</float>
+				</void>
+				<void index="641">
+					<float>2.5</float>
+				</void>
+				<void index="642">
+					<float>2.20000004768</float>
+				</void>
+				<void index="643">
+					<float>1.5</float>
+				</void>
+				<void index="644">
+					<float>2.15000009537</float>
+				</void>
+				<void index="645">
+					<float>2.20000004768</float>
+				</void>
+				<void index="646">
+					<float>1.5</float>
+				</void>
+				<void index="647">
+					<float>2.54999995232</float>
+				</void>
+				<void index="648">
+					<float>2.20000004768</float>
+				</void>
+				<void index="649">
+					<float>1.45000004768</float>
+				</void>
+				<void index="650">
+					<float>2.20000004768</float>
+				</void>
+				<void index="651">
+					<float>2.20000004768</float>
+				</void>
+				<void index="652">
+					<float>0.600000023842</float>
+				</void>
+				<void index="653">
+					<float>2.20000004768</float>
+				</void>
+				<void index="654">
+					<float>2.20000004768</float>
+				</void>
+				<void index="655">
+					<float>0.550000011921</float>
+				</void>
+				<void index="656">
+					<float>2.15000009537</float>
+				</void>
+				<void index="657">
+					<float>2.20000004768</float>
+				</void>
+				<void index="658">
+					<float>1.45000004768</float>
+				</void>
+				<void index="659">
+					<float>2.20000004768</float>
+				</void>
+				<void index="660">
+					<float>2.20000004768</float>
+				</void>
+				<void index="661">
+					<float>0.550000011921</float>
+				</void>
+				<void index="662">
+					<float>2.15000009537</float>
+				</void>
+				<void index="663">
+					<float>2.20000004768</float>
+				</void>
+				<void index="664">
+					<float>1.5</float>
+				</void>
+				<void index="665">
+					<float>2.15000009537</float>
+				</void>
+				<void index="666">
+					<float>2.20000004768</float>
+				</void>
+				<void index="667">
+					<float>0.600000023842</float>
+				</void>
+				<void index="668">
+					<float>2.20000004768</float>
+				</void>
+				<void index="669">
+					<float>2.20000004768</float>
+				</void>
+				<void index="670">
+					<float>0.600000023842</float>
+				</void>
+				<void index="671">
+					<float>2.5</float>
+				</void>
+				<void index="672">
+					<float>2.20000004768</float>
+				</void>
+				<void index="673">
+					<float>0.550000011921</float>
+				</void>
+				<void index="674">
+					<float>2.54999995232</float>
+				</void>
+				<void index="675">
+					<float>2.20000004768</float>
+				</void>
+				<void index="676">
+					<float>0.600000023842</float>
+				</void>
+				<void index="677">
+					<float>2.20000004768</float>
+				</void>
+				<void index="678">
+					<float>2.20000004768</float>
+				</void>
+				<void index="679">
+					<float>0.550000011921</float>
+				</void>
+				<void index="680">
+					<float>2.54999995232</float>
+				</void>
+				<void index="681">
+					<float>2.20000004768</float>
+				</void>
+				<void index="682">
+					<float>0.550000011921</float>
+				</void>
+				<void index="683">
+					<float>2.15000009537</float>
+				</void>
+				<void index="684">
+					<float>2.20000004768</float>
+				</void>
+				<void index="685">
+					<float>1.0</float>
+				</void>
+				<void index="686">
+					<float>2.20000004768</float>
+				</void>
+				<void index="687">
+					<float>2.20000004768</float>
+				</void>
+				<void index="688">
+					<float>1.05000007153</float>
+				</void>
+				<void index="689">
+					<float>2.20000004768</float>
+				</void>
+				<void index="690">
+					<float>2.20000004768</float>
+				</void>
+				<void index="691">
+					<float>1.05000007153</float>
+				</void>
+				<void index="692">
+					<float>2.5</float>
+				</void>
+				<void index="693">
+					<float>2.20000004768</float>
+				</void>
+				<void index="694">
+					<float>1.0</float>
+				</void>
+				<void index="695">
+					<float>2.20000004768</float>
+				</void>
+				<void index="696">
+					<float>2.20000004768</float>
+				</void>
+				<void index="697">
+					<float>1.05000007153</float>
+				</void>
+				<void index="698">
+					<float>2.5</float>
+				</void>
+				<void index="699">
+					<float>2.20000004768</float>
+				</void>
+				<void index="700">
+					<float>1.0</float>
+				</void>
+				<void index="701">
+					<float>2.5</float>
+				</void>
+			</array>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.NormalGenerator">
+		<void property="creaseAngle">
+			<object class="java.lang.Math" field="PI"></object>
+		</void>
+		<void method="generateNormals">
+			<object idref="Mesh-gi3"></object>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.Stripifier">
+		<void method="stripify">
+			<object idref="Mesh-gi3"></object>
+		</void>
+	</void>
+	<void idref="Mesh-gi3">
+		<void property="geometryArray" id="Mesh-ga3"></void>
+	</void>
+	<object class="javax.media.j3d.Shape3D">
+		<void property="geometry">
+			<object idref="Mesh-ga3"></object>
+		</void>
+		<void property="appearance">
+			<object class="javax.media.j3d.Appearance">
+				<void property="material">
+					<object class="javax.media.j3d.Material">
+						<object class="javax.vecmath.Color3f">
+							<float>0.431372582912</float>
+							<float>0.431372582912</float>
+							<float>0.431372582912</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.0</float>
+							<float>0.0</float>
+							<float>0.0</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.862745165825</float>
+							<float>0.862745165825</float>
+							<float>0.862745165825</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>1.0</float>
+							<float>1.0</float>
+							<float>1.0</float>
+						</object>
+						<float>32.0</float>
+					</object>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>

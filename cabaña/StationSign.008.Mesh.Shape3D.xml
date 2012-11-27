@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.4.1_01" class="java.beans.XMLDecoder">
+	<void class="com.sun.j3d.utils.geometry.GeometryInfo" id="Mesh-gi8">
+		<object class="com.sun.j3d.utils.geometry.GeometryInfo" field="TRIANGLE_ARRAY"></object>
+		<void property="coordinates">
+			<array class="float" length="18">
+				<void index="0">
+					<float>0.699999988079</float>
+				</void>
+				<void index="1">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="2">
+					<float>2.79999995232</float>
+				</void>
+				<void index="3">
+					<float>0.699999988079</float>
+				</void>
+				<void index="4">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="5">
+					<float>3.15000009537</float>
+				</void>
+				<void index="6">
+					<float>-1.0</float>
+				</void>
+				<void index="7">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="8">
+					<float>3.15000009537</float>
+				</void>
+				<void index="9">
+					<float>0.699999988079</float>
+				</void>
+				<void index="10">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="11">
+					<float>2.79999995232</float>
+				</void>
+				<void index="12">
+					<float>-1.0</float>
+				</void>
+				<void index="13">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="14">
+					<float>3.15000009537</float>
+				</void>
+				<void index="15">
+					<float>-1.0</float>
+				</void>
+				<void index="16">
+					<float>-2.79999995232</float>
+				</void>
+				<void index="17">
+					<float>2.79999995232</float>
+				</void>
+			</array>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.NormalGenerator">
+		<void property="creaseAngle">
+			<object class="java.lang.Math" field="PI"></object>
+		</void>
+		<void method="generateNormals">
+			<object idref="Mesh-gi8"></object>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.Stripifier">
+		<void method="stripify">
+			<object idref="Mesh-gi8"></object>
+		</void>
+	</void>
+	<void idref="Mesh-gi8">
+		<void property="geometryArray" id="Mesh-ga8"></void>
+	</void>
+	<object class="javax.media.j3d.Shape3D">
+		<void property="geometry">
+			<object idref="Mesh-ga8"></object>
+		</void>
+		<void property="appearance">
+			<object class="javax.media.j3d.Appearance">
+				<void property="material">
+					<object class="javax.media.j3d.Material">
+						<object class="javax.vecmath.Color3f">
+							<float>0.431372582912</float>
+							<float>0.431372582912</float>
+							<float>0.431372582912</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.0</float>
+							<float>0.0</float>
+							<float>0.0</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.862745165825</float>
+							<float>0.862745165825</float>
+							<float>0.862745165825</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>1.0</float>
+							<float>1.0</float>
+							<float>1.0</float>
+						</object>
+						<float>32.0</float>
+					</object>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>
