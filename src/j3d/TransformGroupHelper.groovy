@@ -11,11 +11,11 @@ class TransformGroupHelper extends J3dNodeHelper {
 	
 	protected void aplicaAtributos (Node aNodo, Map atributos) {
 		TransformGroup tg = (TransformGroup) aNodo
-		Map propiedades = tg.getProperties()
+		List propiedades = tg.getMetaClass().getProperties().collect {it.name}
 		atributos.each { llave, valor->
 			if ( llave.equals("capability") && valor instanceof Integer )
 				tg.setCapability( (Integer)valor )
-			else if (propiedades.containsKey(llave))
+			else if (llave in propiedades)
 				tg.getMetaClass().setProperty(tg, llave, valor)
 			else
 				println "Tipo de propiedad desconocido ($llave->$valor) : ${valor.class}"

@@ -36,11 +36,12 @@ class testJ3dBuilder extends JFrame {
 	
 	private BranchGroup creaEscena() {
 		TransformGroup tg
+		TransformGroup tg2
 		Java3dBuilder j3b = new Java3dBuilder()
 		BranchGroup raiz
 
 		raiz = j3b.branchGroup() {
-			tg = transformGroup( capability:TransformGroup.ALLOW_TRANSFORM_WRITE, userData:"MiTG" ) {
+			tg = transformGroup( capability:TransformGroup.ALLOW_TRANSFORM_WRITE, userData:"MiTG", transform:new Transform3D([1,0,0,0, 0,1,0,0, 0,0,1,-3, 0,0,0,1] as float[]) ) {
 //				colorCube(escala:0.4f)
 //				fromxml(archivo:'banca.xml')
 //				complejo(directorio:'banca1', tipo:'xml')
@@ -51,6 +52,9 @@ class testJ3dBuilder extends JFrame {
 //				fromobj(archivo:'cubo1.obj')
 				complejo(directorio:'cubo5', tipo:'obj')
 			}
+			tg2 = transformGroup( capability:TransformGroup.ALLOW_TRANSFORM_WRITE, userData:"MiTG2", transform:new Transform3D([1,0,0,0, 0,1,0,0, 0,0,1,3, 0,0,0,1] as float[]) ) {
+								complejo(directorio:'cubo5', tipo:'obj')
+							}
 			rotationInterpolator ( alpha:new Alpha(-1, 4000),
 									target:tg,
 									schedulingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0), 100.0)
