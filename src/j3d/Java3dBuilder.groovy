@@ -25,6 +25,7 @@ class Java3dBuilder extends BuilderSupport {
 		objetos.put("backgrnd", new BackGroundHelper())
 		objetos.put("complejo", new ObjetoComplejo())
 		objetos.put("primitiva", new PrimitiveHelper())
+		objetos.put("behavior", new BehaviorHelper())
 	}
 
 	

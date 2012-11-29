@@ -8,6 +8,7 @@ import javax.media.j3d.Transform3D
 import javax.media.j3d.TransformGroup
 import javax.media.j3d.WakeupCriterion
 import javax.media.j3d.WakeupOnAWTEvent
+import javax.vecmath.Vector3d
 
 class NavTecla extends Behavior {
 	
@@ -19,6 +20,10 @@ class NavTecla extends Behavior {
 		this.tg = tg
 		this.teclas = teclas
 		wakeEvent = new WakeupOnAWTEvent(KeyEvent.KEY_PRESSED)
+	}
+	
+	NavTecla(Map atributos) {
+		NavTecla(atributos.tg, atributos.teclas)
 	}
 
 	@Override
@@ -32,6 +37,8 @@ class NavTecla extends Behavior {
 		WakeupCriterion criterio;
 		WakeupOnAWTEvent criterioAWT;
 		AWTEvent[] eventos;
+		double avance = 0.5
+		double avanceGiro = 0.5
 		
 		while(criteria.hasMoreElements()) {
 			criterio = (WakeupCriterion)criteria.nextElement()
@@ -47,8 +54,39 @@ class NavTecla extends Behavior {
 				Transform3D aux = new Transform3D()
 				
 				tg.getTransform(nueva)
+				switch(evento.getKeyCode()) {
+					case teclas.arriba:
+						Vector3d vec = new Vector3d(0, avance, 0)
+						aux.setTranslation(vec)
+						break
+					case teclas.abajo:
+						Vector3d vec = new Vector3d(0, -avance, 0)
+						aux.setTranslation(vec)
+						break
+					case teclas.izquierda:
+						Vector3d vec = new Vector3d(-avance, 0, 0)
+						aux.setTranslation(vec)
+						break
+					case teclas.derecha:
+						Vector3d vec = new Vector3d(avance, 0, 0)
+						aux.setTranslation(vec)
+						break
+					case teclas.atras:
+						Vector3d vec = new Vector3d(0, 0, -avance)
+						aux.setTranslation(vec)
+						break
+					case teclas.adelante:
+						Vector3d vec = new Vector3d(0, 0, avance)
+						aux.setTranslation(vec)
+						break
+					default:
+						break
+				}
+				nueva.mul(aux)
+				tg.setTransform(nueva)
 			}
-		}	
+		}
+		wakeupOn(wakeEvent)
 	}
 
 }

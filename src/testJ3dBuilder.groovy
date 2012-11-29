@@ -4,6 +4,7 @@ import java.awt.BorderLayout
 import java.awt.Color
 import java.awt.Dimension
 import java.awt.GraphicsConfiguration
+import java.awt.event.KeyEvent;
 
 import javax.media.j3d.*
 import javax.swing.JFrame
@@ -59,6 +60,15 @@ class testJ3dBuilder extends JFrame {
 									target:tg,
 									schedulingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0), 100.0)
 								)
+			behavior(tipo:'NavTecla',
+					tg:tg2,
+					teclas:[izquierda:KeyEvent.VK_LEFT,
+							derecha:KeyEvent.VK_RIGHT,
+							adelante:KeyEvent.VK_UP,
+							atras:KeyEvent.VK_DOWN,
+							arriba:KeyEvent.VK_Z,
+							abajo:KeyEvent.VK_X],
+					schedulingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0), 100.0) )
 			light (tipoLuz:'AmbientLight',
 					influencingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0),100)
 					)
@@ -84,8 +94,7 @@ class testJ3dBuilder extends JFrame {
 	public testJ3dBuilder() {
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 		setTitle("Hola Builders");
-		setPreferredSize(new Dimension(400,400))
-		setSize(new Dimension(400,400))
+		setPreferredSize(new Dimension(200,200))
 		
 		Canvas3D c = creaUniverso()
 		u.addBranchGraph(creaEscena())
