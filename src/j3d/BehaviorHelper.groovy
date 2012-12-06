@@ -16,18 +16,24 @@ class BehaviorHelper extends J3dNodeHelper {
 //		if( !(atributos.tipo in ['KeyNavigatorBehavior', 'NavTecla']) )
 //			return null
 		String tipo
+		Node behavior
 		switch(atributos.tipo) {
 			case 'NavTecla':println "RECONOCIDO"
 				tipo = "j3d.${atributos.tipo}"
+				behavior = new NavTecla(atributos.tg, atributos.teclas, atributos.branch)
+				break
+			case 'colision':
+				behavior = new DetectaColision(atributos.shape)
 				break
 			default:
 				return null
 		}
-//		def clasePrueba = this.class.classLoader.loadClass('String')
-		def clase = this.class.classLoader.loadClass(tipo)
-		Node behavior = clase.newInstance(atributos.tg, atributos.teclas)
+//		def clase = this.class.classLoader.loadClass(tipo)
+//		Node behavior = clase.newInstance(atributos.tg, atributos.teclas)
 		atributos.remove('tg')
 		atributos.remove('teclas')
+		atributos.remove('shape')
+		atributos.remove('branch')
 		aplicaAtributos(behavior, atributos)
 		
 		return behavior
@@ -38,6 +44,9 @@ class BehaviorHelper extends J3dNodeHelper {
 		switch(atributos.tipo) {
 			case 'NavTecla':
 				behavior = (NavTecla) aNodo
+				break
+			case 'colision':
+				behavior = (DetectaColision) aNodo
 				break
 		}
 		atributos.remove('tipo')

@@ -38,6 +38,8 @@ class testJ3dBuilder extends JFrame {
 	private BranchGroup creaEscena() {
 		TransformGroup tg
 		TransformGroup tg2
+		BranchGroup objeto
+		BranchGroup objeto1
 		Java3dBuilder j3b = new Java3dBuilder()
 		BranchGroup raiz
 
@@ -51,10 +53,10 @@ class testJ3dBuilder extends JFrame {
 //				primitiva(tipo:'Cylinder', alto:4, radio:0.5)
 //				primitiva(tipo:'Sphere', radio:1.5, div:128)
 //				fromobj(archivo:'cubo1.obj')
-				complejo(directorio:'cubo5', tipo:'obj')
+				objeto1 = complejo(directorio:'cubo5', tipo:'obj', useData:'cuboGira')
 			}
 			tg2 = transformGroup( capability:TransformGroup.ALLOW_TRANSFORM_WRITE, userData:"MiTG2", transform:new Transform3D([1,0,0,0, 0,1,0,0, 0,0,1,3, 0,0,0,1] as float[]) ) {
-								complejo(directorio:'cubo5', tipo:'obj')
+								objeto = complejo(directorio:'cubo5', tipo:'obj', userData:'cuboMovil')
 							}
 			rotationInterpolator ( alpha:new Alpha(-1, 4000),
 									target:tg,
@@ -68,7 +70,9 @@ class testJ3dBuilder extends JFrame {
 							atras:KeyEvent.VK_DOWN,
 							arriba:KeyEvent.VK_Z,
 							abajo:KeyEvent.VK_X],
-					schedulingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0), 100.0) )
+					schedulingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0), 100.0),
+					branch:objeto1 )
+//			behavior(tipo:'colision', shape:objeto, schedulingBounds:new BoundingSphere(new Point3d(0.0, 0.0, 0.0), 100.0))
 			light (tipoLuz:'AmbientLight',
 					influencingBounds:new BoundingSphere(new Point3d(0.0,0.0,0.0),100)
 					)
